@@ -1,0 +1,14 @@
+"use strict"  //treat all JS code as newer version
+
+alert(2+2) //will not work in nodeJs but will work in browser
+
+//some different data types
+null //standalone value
+undefined //undefined values
+unique //find uniqueness in components
+
+object//
+
+console.log(typeof "A")
+console.log(typeof null); //object
+console.log(typeof undefined) //undefined
